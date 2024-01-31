@@ -1,1 +1,1 @@
-# Prediction_Tech_Based_on_SAM
+# Video-based Near Future Frame Prediction Based on SAM (Segement Anything Model)

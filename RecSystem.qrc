@@ -1,0 +1,31 @@
+<RCC>
+  <qresource prefix="images">
+    <file>icons/model.png</file>
+    <file>icons/weed_logo.png</file>
+    <file>icons/icon.png</file>
+    <file>icons/weed_logo.png</file>
+    <file>icons/gallery.png</file>
+    <file>icons/burger-menu.png</file>
+    <file>icons/title_bar.png</file>
+    <file>icons/title_bar.png</file>
+    <file>icons/user.png</file>
+    <file>icons/blur.png</file>
+    <file>icons/folder.png</file>
+    <file>icons/video.png</file>
+    <file>icons/back-image.png</file>
+    <file>icons/settings.png</file>
+    <file>icons/save.png</file>
+    <file>icons/author.png</file>
+    <file>icons/Ordinateur.png</file>
+    <file>icons/Score.png</file>
+    <file>icons/count.png</file>
+    <file>icons/selection.png</file>
+    <file>icons/recovery.png</file>
+    <file>icons/g1.png</file>
+    <file>icons/net_speed.png</file>
+    <file>icons/result.png</file>
+    <file>icons/ini-image.png</file>
+    <file>icons/versions.png</file>
+  </qresource>
+
+</RCC>

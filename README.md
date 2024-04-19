@@ -1,5 +1,5 @@
-# Enhancing Multi-Object Tracking with ByteTrack, YOLO, and SAM:
-Integrating Detection and Segmentation for Improved Accuracy and Efficiency
+# Enhancing Multi-Object Tracking with ByteTrack, YOLO, and SAM: Integrating Detection and Segmentation for Improved Accuracy and Efficiency
+
 HOW TO USE OUR CODE!!!
 1.use run_main.py, choose your model to detect and tracking object. Click save putton to save the datalist and
 2.use prediction.py, it will track the last people moving in the video, and predict his future motion

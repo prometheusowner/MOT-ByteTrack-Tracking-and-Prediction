@@ -1,0 +1,13 @@
+path: E:/Python_Projects/YOLO_Bytetrack/datasets/PersonCar
+train: train/images/
+val: valid/images/
+test: test/images/
+nc: 7
+names:
+  0: person
+  1: bicycle
+  2: car
+  3: motorcycle
+  4: bus
+  5: truck
+  6: train

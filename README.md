@@ -37,4 +37,4 @@ ultralytics: SAM, YOLO, bytetrack are here  https://github.com/ultralytics/ultra
 
 Test Media files (videos) can be download from: https://drive.google.com/drive/folders/14IHEJlktm9PdCEe8ilP2UqdDtpCD7QU6?usp=drive_link
 
-Download the zip code: https://drive.google.com/file/d/1jn6idaUm_Hgvi4Fhomk9HZVw0oslunvT/view?usp=drive_link
+Download the zip file of the code: https://drive.google.com/file/d/1jn6idaUm_Hgvi4Fhomk9HZVw0oslunvT/view?usp=drive_link

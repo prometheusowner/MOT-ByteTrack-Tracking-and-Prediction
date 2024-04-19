@@ -1,0 +1,145 @@
+# 本文件用于配置UI中的文字和图标背景等
+
+label_title:
+  type: "QLabel"
+  text: "Multi-target Detecting and Tracking System"
+
+label_website:
+  type: "QLabel"
+  text: " "
+
+label_info:
+  type: "QLabel"
+  text: " "
+
+label_time_result:
+  type: "QLabel"
+  text: "0 s"
+
+label_numer_result:
+  type: "QLabel"
+  text: "0"
+
+label_class_result:
+  type: "QLabel"
+  text: "None"
+
+label_score_result:
+  type: "QLabel"
+  text: "0"
+
+label_xmin_result:
+  type: "QLabel"
+  text: "0"
+
+label_ymin_result:
+  type: "QLabel"
+  text: "0"
+
+label_xmax_result:
+  type: "QLabel"
+  text: "0"
+
+label_ymax_result:
+  type: "QLabel"
+  text: "0"
+
+textEdit_image:
+  type: "QTextEdit"
+  text: "Image file"
+
+textEdit_imgFolder:
+  type: "QTextEdit"
+  text: "Image folder"
+
+textEdit_video:
+  type: "QTextEdit"
+  text: "Video file"
+
+textEdit_camera:
+  type: "QTextEdit"
+  text: "Camera"
+
+textEdit_model:
+  type: "QTextEdit"
+  text: "Model"
+
+windowIcon:
+  type: "QMainWindow"
+  windowIcon: "./icons/icon.png"
+
+centralwidget:
+  type: "QWidget"
+  background: "./icons/back-image.png"
+
+Sidebar:
+  type: "QWidget"
+  background: "./icons/blur.png"
+
+loginTitle:
+  type: "QToolButton"
+  background: "icons/user.png"
+
+toolButton_saveing:
+  type: "QToolButton"
+  icon: "./icons/save.png"
+
+toolButton_menu:
+  type: "QToolButton"
+  icon: "./icons/burger-menu.png"
+
+toolButton_author:
+  type: "QToolButton"
+  icon: "./icons/author.png"
+
+toolButton_version:
+  type: "QToolButton"
+  icon: "./icons/versions.png"
+
+toolButton_file:
+  type: "QToolButton"
+  icon: "./icons/recovery.png"
+
+toolButton_video:
+  type: "QToolButton"
+  icon: "./icons/video.png"
+
+toolButton_camera:
+  type: "QToolButton"
+  icon: "./icons/g1.png"
+
+toolButton_model:
+  type: "QToolButton"
+  icon: "./icons/model.png"
+
+toolButton_folder:
+  type: "QToolButton"
+  icon: "./icons/folder.png"
+
+label_picTime:
+  type: "QLabel"
+  background: "./icons/net_speed.png"
+
+label_picNumber:
+  type: "QLabel"
+  background: "./icons/count.png"
+
+label_picSelect:
+  type: "QLabel"
+  background: "./icons/selection.png"
+
+label_picResult:
+  type: "QLabel"
+  background: "./icons/result.png"
+
+label_picConf:
+  type: "QLabel"
+  background: "./icons/Score.png"
+
+label_picLocation:
+  type: "QLabel"
+  background: "./icons/Ordinateur.png"
+
+label_display:
+  type: "QLabel"
+  background: "./icons/ini-image.png"

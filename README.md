@@ -1,7 +1,7 @@
 # Enhancing Multi-Object Tracking with ByteTrack, YOLO, and SAM: Integrating Detection and Segmentation for Improved Accuracy and Efficiency
 
 Versions:
-Python -- 3.10
+Python -- 3.10;
 PyTorch -- 2.22+CU118
 
 HOW TO USE OUR CODE!!!

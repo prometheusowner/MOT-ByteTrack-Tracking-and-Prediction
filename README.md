@@ -1,5 +1,9 @@
 # Enhancing Multi-Object Tracking with ByteTrack, YOLO, and SAM: Integrating Detection and Segmentation for Improved Accuracy and Efficiency
 
+Versions:
+Python -- 3.10
+PyTorch -- 2.22+CU118
+
 HOW TO USE OUR CODE!!!
 1.use run_main.py, choose your model to detect and tracking object. Click save putton to save the datalist and
 2.use prediction.py, it will track the last people moving in the video, and predict his future motion
@@ -30,3 +34,5 @@ icons: images files for UI
 runs: our trained weight, processed images are all here
 test_media: the media resource we use, E:\Python_Projects\YOLO_Bytetrack\test_media\JapanStreet.mp4 is mostly used
 ultralytics: SAM, YOLO, bytetrack are here  https://github.com/ultralytics/ultralytics
+
+Test Media files (videos) can be download from: https://drive.google.com/drive/folders/14IHEJlktm9PdCEe8ilP2UqdDtpCD7QU6?usp=drive_link
